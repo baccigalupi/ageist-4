@@ -23,3 +23,5 @@ else age >100
 end
 
 puts 'The age range is a ' + range + '.'
+
+# Looks great, only possible issue is that rand(110) will generate numbers from 0 to 109
